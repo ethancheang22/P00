@@ -47,7 +47,7 @@ public class CalculatorTest {
 	
 	@Test
 	public void testmultiply() {
-		//Arrange1
+		//Arrange
 		int a = 1111;
 		int b = 5;
 		Calculator cal = new Calculator();
